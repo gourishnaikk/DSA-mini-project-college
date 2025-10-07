@@ -1,5 +1,5 @@
 # DSA-mini-project-college
-# 🎵 Predictive Song Playlist System
+# 🎵 BeatLinked-Smart Music Playlist Management System
 
 A **Java console-based mini project** that uses **core Data Structures (Linked List, Queue, and Stack)** to manage and predict songs intelligently based on user interactions.  
 This project demonstrates the application of **DSA concepts** in building a lightweight, automated music management system.
